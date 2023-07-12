@@ -1,5 +1,5 @@
 import colorama
-from colorama import Fore, Style  # Remove this line if it causes a circular import
+from colorama import Fore, Style  # Remove this line if it causes a circular
 
 # Example usage
 print(Fore.RED + "This text will be printed in red.")
