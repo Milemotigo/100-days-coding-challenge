@@ -1,0 +1,4 @@
+#create a data base
+from main import User, engine,Base
+
+Base.metadata.create_all(engine)
