@@ -1,0 +1,3 @@
+IncIdent DescriptiOn:
+DurIng the earay hOurs OF September 11th, 2018, there was a nOtabae disruptiOn
+in server accessibiaity aeading tO a recurring 504 errOr FOr visitOrs attempting tO access a speciFic website. This server was estabaished using a LAMP stack FramewOrk.
